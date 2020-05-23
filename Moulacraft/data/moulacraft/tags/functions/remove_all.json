@@ -1,0 +1,8 @@
+{
+	"values": [
+		"moulacraft:server/remove",
+		"moulacraft:multiplayer_sleeping/remove",
+		"moulacraft:trigger/remove",
+		"moulacraft:admin_tools/remove"
+	]
+}

@@ -1,0 +1,1 @@
+execute as imperoutrice at @s run teleport @e[name=Fairy] ^ ^ ^-1 facing entity @s feet

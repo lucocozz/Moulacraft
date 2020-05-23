@@ -1,0 +1,1 @@
+function moulacraft:admin_tools/remove_spawn

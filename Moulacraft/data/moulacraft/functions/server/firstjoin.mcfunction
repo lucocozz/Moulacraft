@@ -1,0 +1,1 @@
+team join Player @a[team=!Player, team=!Admin]

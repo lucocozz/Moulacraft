@@ -1,0 +1,2 @@
+summon minecraft:villager ~ ~ ~ {Silent:1b,CustomNameVisible:0b,Age:-2147483648,CustomName:'{"text":"Soul"}',ActiveEffects:[{Id:14b,Amplifier:1b,Duration:199999980,ShowParticles:0b}]}
+replaceitem entity @e[name=Soul,distance=..1] armor.head minecraft:player_head{display:{Name:'{"text":"Ghost"}'},SkullOwner:{Id:[I;-1061943633,1206992957,-1355954278,-1550453126],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZhMTMwMzJmYTkzOWYxODRkYWE2YTRlMTFlNmYzYTkxM2U0OGYyNTA0OTgxNjVjNTY2NWNjZjQ5YzcyYTE0MCJ9fX0="}]}}} 1

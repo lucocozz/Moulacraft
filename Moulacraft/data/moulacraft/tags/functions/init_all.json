@@ -1,0 +1,6 @@
+{
+	"values": [
+		"moulacraft:multiplayer_sleeping/init",
+		"moulacraft:server/init"
+	]
+}

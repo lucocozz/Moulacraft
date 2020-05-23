@@ -1,0 +1,10 @@
+{
+	"values": [
+		"moulacraft:trigger/enable_trigger",
+		"#moulacraft:commands",
+		"#moulacraft:server",
+		"#moulacraft:particles",
+		"moulacraft:multiplayer_sleeping/multiplayer_sleeping",
+		"moulacraft:miscellaneous/gencrouton"
+	]
+}

@@ -1,0 +1,1 @@
+execute as @e[name=Soul] at @s run particle minecraft:soul_fire_flame ~ ~0.7 ~ 0.1 0.15 0.1 0 1 normal

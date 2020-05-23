@@ -1,0 +1,2 @@
+execute as @a[scores={Stats=1..}] run tellraw @s ["",{"text":"Ton nombre de morts est de: ","color":"yellow"},{"score":{"name":"@s","objective":"Morts"},"color":"red"}]
+scoreboard players set @a[scores={Stats=1..}] Stats 0

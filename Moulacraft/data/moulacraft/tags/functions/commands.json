@@ -1,0 +1,7 @@
+{
+	"values": [
+		"moulacraft:trigger/spawn",
+		"moulacraft:trigger/coords/coords",
+		"moulacraft:trigger/stats"
+	]
+}
